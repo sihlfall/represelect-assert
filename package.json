@@ -1,7 +1,7 @@
 {
   "name": "@sihlfall/represelect-assert",
   "version": "0.1.4",
-  "description": "Reselect-like lazy selectors for asynchronous pure functions",
+  "description": "Assertion functions for the Represelect package",
   "main": "./lib/index.js",
   "jsnext:main": "./es/index.js",
   "module": "./es/index.js",
