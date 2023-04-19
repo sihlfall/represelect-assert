@@ -1,6 +1,6 @@
 {
   "name": "@sihlfall/represelect-assert",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Assertion functions for the Represelect package",
   "main": "./lib/index.js",
   "jsnext:main": "./es/index.js",
